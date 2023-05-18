@@ -1,4 +1,4 @@
-# Task-Manager
+# Process-viewer
 A Simple Task Manager
 
 Task Manager is a Java Swing application that allows users to monitor running processes on a Linux system. It provides a user-friendly interface to view process information, refresh the process list, and terminate processes.
